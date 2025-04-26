@@ -4,7 +4,8 @@ version = "0.1.0"
 schema_version = 1
 description = "A monochrome theme for Zed."
 authors = ["Zebrakat"]
-themes = ["themes/blox.json"]               # Points to the JSON file
+themes = ["themes/blox.json"]
+repository = "https://github.com/4teapo/zed-luau"
 icon_themes = []
 languages = []
 
